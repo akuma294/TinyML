@@ -1,0 +1,13 @@
+../Src/network.c:366:9:network_configure_activations	16	static
+../Src/network.c:405:9:network_configure_weights	16	static
+../Src/network.c:449:9:ai_network_get_info	160	static
+../Src/network.c:495:9:ai_network_get_report	160	static
+../Src/network.c:541:10:ai_network_get_error	16	static
+../Src/network.c:547:10:ai_network_create	24	static
+../Src/network.c:557:10:ai_network_create_and_init	96	static
+../Src/network.c:591:12:ai_network_inputs_get	16	static
+../Src/network.c:601:12:ai_network_outputs_get	16	static
+../Src/network.c:611:11:ai_network_destroy	16	static
+../Src/network.c:617:9:ai_network_init	24	static
+../Src/network.c:634:8:ai_network_run	24	static
+../Src/network.c:641:8:ai_network_forward	16	static
